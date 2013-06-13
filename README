@@ -1,0 +1,35 @@
+Rubik's Cube 2x2x2 
+Developed using Unity ( http://unity3d.com/ )
+
+Description:
+This was supposed to be my first work using Unity Game Engine. Problem is, I 
+somehow managed to delete the whole project :'(. All I have left is the 
+executable file and the javascript scripts.
+
+Usage:
+Extract Rubik2x2x2.exe and Rubik2x2x2_Data.
+Run Rubik2x2x2.exe and choose the settings that best suit you.
+Now, you can scramble/solve the cube using these keys:
+
+Up arrow		View from top
+Down arrow		View from bottom
+Left arrow		Rotate counterclockwise (Y axis)
+Right arrow		Rotate clockwise (Y axis)
+8 (numeric keypad)	Rotate counterclockwise (X axis)
+2 (numeric keypad)	Rotate clockwise (X axis)
+4 (numeric keypad)	Rotate counterclockwise (Z axis)
+6 (numeric keypad)	Rotate clockwise (Z axis)
+E			Up
+W			Up Inverted
+X			Down
+Z			Down Inverted
+S			Left
+A			Left Inverted
+F			Right
+D			Right Inverted
+C			Front
+Shift			Front Inverted
+Tab			Back
+R			Back Inverted
+
+Special thanks to Paolo Guzzo, who provided me with the "cubes" :-)
